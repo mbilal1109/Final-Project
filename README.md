@@ -1,2 +1,2 @@
-# Final-Project
-A webpage for my university's website
+# Template for the website
+A website for my university's peer leader program
